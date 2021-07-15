@@ -14,23 +14,34 @@ Lastly, I'll try to keep this up to date and revisit the challenges to update th
 [**2020**](/2020/)
 
     Rust   [                         ] 0/25
+    Sophia [                         ] 0/25
     
 [**2019**](/2019/)
 
     Rust   [                         ] 0/25
+    Sophia [==                       ] 2/25
 
 [**2018**](/2018/)
     
     Rust   [                         ] 0/25
+    Sophia [                         ] 0/25
     
 [**2017**](/2017/)
 
     Rust   [                         ] 0/25
+    Sophia [                         ] 0/25
 
 [**2016**](/2016/)
 
     Rust   [                         ] 0/25
+    Sophia [                         ] 0/25
 
 [**2015**](/2015/)
 
     Rust   [==                       ] 2/25
+    Sophia [                         ] 0/25
+
+
+## Acknowledgments
+
+Formatting and structure inspired by: https://github.com/akulumbeg/adventofcode
