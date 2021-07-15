@@ -33,4 +33,4 @@ Lastly, I'll try to keep this up to date and revisit the challenges to update th
 
 [**2015**](/2015/)
 
-    Rust   [=                        ] 1/25
+    Rust   [==                       ] 2/25
