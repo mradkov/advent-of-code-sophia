@@ -6,7 +6,7 @@
 | [Day 2: I Was Told There Would Be No Math](./challenges/day02.md) ([external link](https://adventofcode.com/2015/day/2)) | [data](data/day02.txt) | [rust_day02](solutions/rust/day02) | ✅ | ✅ |
 | [Day 3: Perfectly Spherical Houses in a Vacuum](./challenges/day03.md) ([external link](https://adventofcode.com/2015/day/3)) | [data](data/day03.txt) | [rust_day03](solutions/rust/day03) | ✅ | ✅ |
 | [Day 4: The Ideal Stocking Stuffer](./challenges/day04.md) ([external link](https://adventofcode.com/2015/day/4)) | [data](data/day04.txt) | [rust_day04](solutions/rust/day04) | ✅ | ✅ |
-| [Day 5: Doesn't He Have Intern-Elves For This?](./challenges/day05.md) ([external link](https://adventofcode.com/2015/day/5)) | [data](data/day05.txt) |  |  |  |
+| [Day 5: Doesn't He Have Intern-Elves For This?](./challenges/day05.md) ([external link](https://adventofcode.com/2015/day/5)) | [data](data/day05.txt) | [rust_day05](solutions/rust/day05) | ✅ | ✅ |
 | [Day 6: Probably a Fire Hazard](./challenges/day06.md) ([external link](https://adventofcode.com/2015/day/6)) | [data](data/day06.txt) |  |  |  |
 | [Day 7: Some Assembly Required](./challenges/day07.md) ([external link](https://adventofcode.com/2015/day/7)) | [data](data/day07.txt) |  |  |  |
 | [Day 8: Matchsticks](./challenges/day08.md) ([external link](https://adventofcode.com/2015/day/8)) | [data](data/day08.txt) |  |  |  |

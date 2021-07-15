@@ -38,7 +38,7 @@ Lastly, I'll try to keep this up to date and revisit the challenges to update th
 
 [**2015**](/2015/)
 
-    Rust   [====                     ] 4/25
+    Rust   [=====                    ] 5/25
     Sophia [                         ] 0/25
 
 
