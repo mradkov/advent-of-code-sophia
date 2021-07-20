@@ -8,7 +8,7 @@
 | [Day 4: The Ideal Stocking Stuffer](./challenges/day04.md) ([external link](https://adventofcode.com/2015/day/4)) | [data](data/day04.txt) | [rust_day04](solutions/rust/day04) | ✅ | ✅ |
 | [Day 5: Doesn't He Have Intern-Elves For This?](./challenges/day05.md) ([external link](https://adventofcode.com/2015/day/5)) | [data](data/day05.txt) | [rust_day05](solutions/rust/day05) | ✅ | ✅ |
 | [Day 6: Probably a Fire Hazard](./challenges/day06.md) ([external link](https://adventofcode.com/2015/day/6)) | [data](data/day06.txt) | [rust_day06](solutions/rust/day06) | ✅ | ✅ |
-| [Day 7: Some Assembly Required](./challenges/day07.md) ([external link](https://adventofcode.com/2015/day/7)) | [data](data/day07.txt) |  |  |  |
+| [Day 7: Some Assembly Required](./challenges/day07.md) ([external link](https://adventofcode.com/2015/day/7)) | [data](data/day07.txt) | [rust_day07](solutions/rust/day07) | ✅ | ✅ |
 | [Day 8: Matchsticks](./challenges/day08.md) ([external link](https://adventofcode.com/2015/day/8)) | [data](data/day08.txt) |  |  |  |
 | [Day 9: All in a Single Night](./challenges/day09.md) ([external link](https://adventofcode.com/2015/day/9)) | [data](data/day09.txt) |  |  |  |
 | [Day 10: Elves Look, Elves Say](./challenges/day10.md) ([external link](https://adventofcode.com/2015/day/10)) | [data](data/day10.txt) |  |  |  |
